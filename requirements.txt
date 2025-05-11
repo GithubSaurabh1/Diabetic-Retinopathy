@@ -1,0 +1,8 @@
+cv2
+os
+numpy
+tensorflow
+keras
+sklearn
+matplotlib
+flask
